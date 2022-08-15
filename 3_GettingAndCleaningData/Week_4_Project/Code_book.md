@@ -43,15 +43,15 @@ this project.
     1.3 merge the trainning and test dataset with appropriate variable
     names.
 
-    **features** \<- features.txt: The features selected for this
+    **feature** \<- features.txt: The features selected for this
     database come from the accelerometer and gyroscope 3-axial raw
     signals tAcc-XYZ and tGyro-XYZ.
 
-    **activities** \<- activity_labels.txt :List of activities performed
+    **activities——id** \<- activity_labels.txt :List of activities performed
     when the corresponding measurements were taken and its codes
     (labels)
 
-    **subject_test** \<- test/subject_test.txt :contains test data of
+    **sub_test** \<- test/subject_test.txt :contains test data of
     9/30 volunteer test subjects being observed
 
     **x_test** \<- test/X_test.txt :contains recorded features test data
@@ -59,7 +59,7 @@ this project.
     **y_test** \<- test/y_test.txt :contains test data of
     activities'code labels
 
-    **subject_train** \<- test/subject_train.txt : contains train data
+    **sub_train** \<- test/subject_train.txt : contains train data
     of 21/30 volunteer subjects being observed
 
     **x_train** \<- test/X_train.txt :contains recorded features train
