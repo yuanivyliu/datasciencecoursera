@@ -1,15 +1,10 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 
 # Getting and Cleaning Data Course Project
 
 a code book that describes the variables, the data, and any
 transformations or work that you performed to clean up the data called
-CodeBook.md
+Code_book.md
 
 ## 1. Data information
 
