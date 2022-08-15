@@ -47,7 +47,7 @@ this project.
     database come from the accelerometer and gyroscope 3-axial raw
     signals tAcc-XYZ and tGyro-XYZ.
 
-    **activities_id** \<- activity_labels.txt :List of activities performed
+    **act_label** \<- activity_labels.txt :List of activities performed
     when the corresponding measurements were taken and its codes
     (labels)
 
